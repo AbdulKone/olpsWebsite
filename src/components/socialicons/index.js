@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 import {
-    FaGithub,
     FaTwitter,
     FaFacebookF,
     FaLinkedin,
