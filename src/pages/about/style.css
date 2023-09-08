@@ -71,7 +71,7 @@
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(101, 255, 114, 0.863);
     padding: 15px;
-    background-color: #1efc43cb;
+    background-color: Black;
     position: relative; /* Add relative positioning for the shadow illusion */
     transform: perspective(1px) translateZ(0); /* Add transform for hovering effect */
     transition: transform 0.3s ease; /* Add transition for smooth animation */
