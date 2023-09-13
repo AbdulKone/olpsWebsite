@@ -40,7 +40,7 @@ export const ContactUs = () => {
           console.log(result.text);
           setFormdata({
             loading: false,
-            alertmessage: "SUCCESS! , Looking forward to reading your email.",
+            alertmessage: "Envoyé! Nous vous contacterons bientôt.",
             variant: "success",
             show: true,
           });
@@ -48,7 +48,7 @@ export const ContactUs = () => {
         (error) => {
           console.log(error.text);
           setFormdata({
-            alertmessage: `Failed to send!,${error.text}`,
+            alertmessage: `Echec de l´envoi!,${error.text}`,
             variant: "danger",
             show: true,
           });

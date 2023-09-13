@@ -96,7 +96,7 @@ const contactConfig = {
 
 const socialprofils = {
     youtube: "https://www.youtube.com/channel/UCywwe8hOkpppEgNvTT1weVA",
-    instagram: "https://www.instagram.com/",
+    instagram: "https://www.instagram.com/olympeusrecords/",
 };
 export {
     meta,
