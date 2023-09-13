@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/olpsWebsite/static/css/main.3a096ed6.css",
-    "main.js": "/olpsWebsite/static/js/main.889139e6.js",
+    "main.css": "/olpsWebsite/static/css/main.e86eb90b.css",
+    "main.js": "/olpsWebsite/static/js/main.b7397ad4.js",
     "index.html": "/olpsWebsite/index.html"
   },
   "entrypoints": [
-    "static/css/main.3a096ed6.css",
-    "static/js/main.889139e6.js"
+    "static/css/main.e86eb90b.css",
+    "static/js/main.b7397ad4.js"
   ]
 }
